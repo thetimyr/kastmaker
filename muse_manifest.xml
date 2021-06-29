@@ -1,0 +1,26 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="kastmaker.ru" resolutions="1x" timestamp="1624975570922">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_______-a.css" crc="4073296997" ref="index:о-нас"/>
+    <file name="index.css" crc="4087416933" ref="index"/>
+    <file name="iefonts_index.css" crc="316440290" ref="index"/>
+    <file name="_-___.css" crc="3812095543" ref="о-нас"/>
+    <file name="iefonts__-___.css" crc="316440290" ref="о-нас"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:о-нас"/>
+    <file name="museutils.js" crc="4216313831" ref="index:о-нас"/>
+    <file name="whatinput.js" crc="86476730" ref="index:о-нас"/>
+    <file name="museconfig.js" crc="474374037" ref="index:о-нас"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:о-нас"/>
+    <file name="require.js" crc="3951022091" ref="index:о-нас"/>
+  </folder>
+  <folder name="images">
+    <file name="instagram_icon-iconscom_66804.png" crc="106940045" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="463280637" seo="true" mt="1624975535006" redirect="true"/>
+  <file name="о-нас.html" crc="274791827" seo="true" mt="1624975535006" redirect="true"/>
+</manifest>
